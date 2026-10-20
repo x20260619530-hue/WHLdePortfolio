@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1080" viewBox="0 0 720 1080">
+<rect width="720" height="1080" rx="28" fill="#f1eee7"/><rect x="28" y="28" width="664" height="1024" rx="18" fill="none" stroke="#151515" stroke-opacity=".35" stroke-width="2"/>
+<text x="55" y="105" fill="#151515" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">WANG HAILI / AI CREATIVE</text>
+<text x="55" y="310" fill="#d82e22" font-family="Arial Black,Arial,sans-serif" font-size="170" font-weight="900">05</text>
+<line x1="55" x2="665" y1="350" y2="350" stroke="#151515" stroke-width="3"/>
+<text x="55" y="450" fill="#151515" font-family="Arial Black,Arial,sans-serif" font-size="54" textLength="525" lengthAdjust="spacingAndGlyphs" font-weight="900">VIDEO LIBRARY</text>
+<text x="55" y="520" fill="#151515" font-family="Arial,sans-serif" font-size="34">AIGC视频作品库</text>
+<g transform="translate(55 650)"><circle cx="0" cy="0" r="8" fill="#d82e22"/><circle cx="28" cy="0" r="8" fill="#151515" opacity=".35"/><circle cx="56" cy="0" r="8" fill="#151515" opacity=".35"/></g>
+<text x="55" y="740" fill="#151515" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">DISC / PLAYER / ARCHIVE</text>
+<text x="55" y="990" fill="#151515" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">SELECTED WORKS / 2026</text>
+<path d="M610 920 l55 0 l0 55" fill="none" stroke="#d82e22" stroke-width="8"/><path d="M665 920 l-92 92" stroke="#d82e22" stroke-width="8"/>
+</svg>
